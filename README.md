@@ -1,1 +1,1 @@
-# EC312_GA
+This repository contains the code for the Genetic Algorithm course project of the course **EC312 Optimization Techniques** offered by the **Electronics and Communications Department** of **NIT Andhra Pradesh**.
